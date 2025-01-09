@@ -41,6 +41,7 @@ I use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) wit
 - **docs**: Documentation only changes (README or Changelog).
 - **feat**: A new feature.
 - **fix**: A bug fix.
+- **image**: Add or change image file(s).
 - **perf**: A code change that improves performance.
 - **refactor**: A code change that neither fixes a bug nor adds a feature.
 - **remove**: The removal of a file or a feature (after a being deprecated first).
