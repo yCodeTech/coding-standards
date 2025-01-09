@@ -47,5 +47,5 @@ I use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) wit
 - **remove**: The removal of a file or a feature (after a being deprecated first).
 - **revert**: Revert code that was previously committed (must reference the commit ID(s) to link them).
 - **security**: Improves security or resolves a security issue.
-- **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
+- **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc); or changes to CSS rules.
 - **test**: Adding missing tests or correcting existing tests.
