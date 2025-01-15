@@ -37,6 +37,7 @@ I use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) wit
 ## Commit types
 
 - **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm).
+- **chore**: Grunt tasks or maintenance changes that are not considered part of the codebase (editorconfig, prettier, version bumps, non-CI related files, etc).
 - **ci**: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs).
 - **docs**: Documentation only changes (README or Changelog).
 - **feat**: A new feature.
