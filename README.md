@@ -51,6 +51,7 @@ I use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) wit
 - **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc); or changes to CSS rules.
 - **test**: Adding missing tests or correcting existing tests.
 - **change**: Describes any kind of change. -- If none of the above types fit the bill, then this type can be used. **Use sparingly**.
+- **deprecate**: Deprecates existing functionality, but does not remove it.
 
 # OOP Principles
 
